@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "isbn": "978-0132350884",
+        "title": "Clean Code",
+        "category": "Technology",
+        "author": "Robert C. Martin",
+        "price": 450000,
+        "quantity": 12
+    },
+    {
+        "id": 2,
+        "isbn": "978-0134494166",
+        "title": "Clean Architecture",
+        "category": "Technology",
+        "author": "Robert C. Martin",
+        "price": 520000,
+        "quantity": 4
+    },
+    {
+        "id": 3,
+        "isbn": "978-0743273565",
+        "title": "The Great Gatsby",
+        "category": "Fiction",
+        "author": "F. Scott Fitzgerald",
+        "price": 180000,
+        "quantity": 0
+    },
+    {
+        "id": 4,
+        "isbn": "978-0451524935",
+        "title": "1984",
+        "category": "Fiction",
+        "author": "George Orwell",
+        "price": 150000,
+        "quantity": 8
+    },
+    {
+        "id": 5,
+        "isbn": "978-0201633610",
+        "title": "Design Patterns",
+        "category": "Technology",
+        "author": "Erich Gamma",
+        "price": 620000,
+        "quantity": 15
+    }
+]
